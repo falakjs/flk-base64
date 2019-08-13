@@ -2,10 +2,15 @@
     "name": "flk-bas64",
     "description": "A simple encoder and decoder for bas64 encodings.",
     "version": "1.0.0",
+    "main": "src/index.js",
     "keywords": [
         "base64",
         "encode",
         "decode",
         "flk"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-base64"
+    }
 }
