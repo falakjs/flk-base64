@@ -1,7 +1,7 @@
 {
     "name": "flk-bas64",
     "description": "A simple encoder and decoder for bas64 encodings.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/index.js",
     "keywords": [
         "base64",
